@@ -2,84 +2,84 @@
 /* SukhumvitSet */
 @font-face {
     font-family: 'SukhumvitSetThin';
-    src: url('/assets/fonts/SukhumvitSet-Thin.woff') format('woff');
+    src: url('../assets/fonts/SukhumvitSet-Thin.woff') format('woff');
 }
 
 @font-face {
     font-family: 'SukhumvitSetLight';
-    src: url('/assets/fonts/SukhumvitSet-Light.woff') format('woff');
+    src: url('../assets/fonts/SukhumvitSet-Light.woff') format('woff');
 }
 
 @font-face {
     font-family: 'SukhumvitSetRegular';
-    src: url('/assets/fonts/SukhumvitSet-Text.woff') format('woff');
+    src: url('../assets/fonts/SukhumvitSet-Text.woff') format('woff');
 }
 
 @font-face {
     font-family: 'SukhumvitSetMedium';
-    src: url('/assets/fonts/SukhumvitSet-Medium.woff') format('woff');
+    src: url('../assets/fonts/SukhumvitSet-Medium.woff') format('woff');
 }
 
 @font-face {
     font-family: 'SukhumvitSetSemiBold';
-    src: url('/assets/fonts/SukhumvitSet-SemiBold.woff') format('woff');
+    src: url('../assets/fonts/SukhumvitSet-SemiBold.woff') format('woff');
 }
 
 
 @font-face {
     font-family: 'SukhumvitSetBold';
-    src: url('/assets/fonts/SukhumvitSet-Bold.woff') format('woff');
+    src: url('../assets/fonts/SukhumvitSet-Bold.woff') format('woff');
 }
 
 
 @font-face {
     font-family: 'SukhumvitSetExtraBold';
-    src: url('/assets/fonts/SukhumvitSet-Extra%20Bold.woff') format('woff');
+    src: url('../assets/fonts/SukhumvitSet-Extra%20Bold.woff') format('woff');
 }
 
 /* SF Thonburi */
 
 @font-face {
     font-family: 'SFThonburiLight';
-    src: url('/assets/fonts/SFThonburi.woff') format('woff');
+    src: url('../assets/fonts/SFThonburi.woff') format('woff');
 }
 
 @font-face {
     font-family: 'SFThonburiRegular';
-    src: url('/assets/fonts/SFThonburi-Regular.woff') format('woff');
+    src: url('../assets/fonts/SFThonburi-Regular.woff') format('woff');
 }
 
 @font-face {
     font-family: 'SFThonburiSemiBold';
-    src: url('/assets/fonts/SFThonburi-Semibold.woff') format('woff');
+    src: url('../assets/fonts/SFThonburi-Semibold.woff') format('woff');
 }
 
 
 @font-face {
     font-family: 'SFThonburiBold';
-    src: url('/assets/fonts/SFThonburi-Bold.woff') format('woff');
+    src: url('../assets/fonts/SFThonburi-Bold.woff') format('woff');
 }
 
 /* Kanit */
 @font-face {
     font-family: 'KanitThin';
-    src: url('/assets/fonts/Kanit-Thin.woff') format('woff');
+    src: url('../assets/fonts/Kanit-Thin.woff') format('woff');
 }
 @font-face {
     font-family: 'KanitExtraLight';
-    src: url('/assets/fonts/Kanit-ExtraLight.woff') format('woff');
+    src: url('../assets/fonts/Kanit-ExtraLight.woff') format('woff');
 }
 @font-face {
     font-family: 'KanitLight';
-    src: url('/assets/fonts/Kanit-Light.woff') format('woff');
+    src: url('../assets/fonts/Kanit-Light.woff') format('woff');
 }
 @font-face {
     font-family: 'KanitRegular';
-    src: url('/assets/fonts/Kanit-Regular.woff') format('woff');
+    src: url('../assets/fonts/Kanit-Regular.woff') format('woff');
 }
 @font-face {
     font-family: 'KanitMedium';
-    src: url('/assets/fonts/Kanit-Medium.woff') format('woff');
+    src: url('../assets/fonts/Kanit-Medium.woff') format('woff');
 }
 @font-face {
     font-family: 'KanitSemiBold';
@@ -87,37 +87,37 @@
 }
 @font-face {
     font-family: 'KanitBold';
-    src: url('/assets/fonts/Kanit-Bold.woff') format('woff');
+    src: url('../assets/fonts/Kanit-Bold.woff') format('woff');
 }
 @font-face {
     font-family: 'KanitExtraBold';
-    src: url('/assets/fonts/Kanit-ExtraBold.woff') format('woff');
+    src: url('../assets/fonts/Kanit-ExtraBold.woff') format('woff');
 }
 @font-face {
     font-family: 'KanitBlack';
-    src: url('/assets/fonts/Kanit-Black.woff') format('woff');
+    src: url('../assets/fonts/Kanit-Black.woff') format('woff');
 }
 
 /* NotoSansKR */
 @font-face {
     font-family: 'NotoSansKRThin';
-    src: url('/assets/fonts/NotoSansKR-Thin.woff') format('woff');
+    src: url('../assets/fonts/NotoSansKR-Thin.woff') format('woff');
 }
 @font-face {
     font-family: 'NotoSansKRExtraLight';
-    src: url('/assets/fonts/NotoSansKR-ExtraLight.woff') format('woff');
+    src: url('../assets/fonts/NotoSansKR-ExtraLight.woff') format('woff');
 }
 @font-face {
     font-family: 'NotoSansKRLight';
-    src: url('/assets/fonts/NotoSansKR-Light.woff') format('woff');
+    src: url('../assets/fonts/NotoSansKR-Light.woff') format('woff');
 }
 @font-face {
     font-family: 'NotoSansKRRegular';
-    src: url('/assets/fonts/NotoSansKR-Regular.woff') format('woff');
+    src: url('../assets/fonts/NotoSansKR-Regular.woff') format('woff');
 }
 @font-face {
     font-family: 'NotoSansKRMedium';
-    src: url('/assets/fonts/NotoSansKR-Medium.woff') format('woff');
+    src: url('../assets/fonts/NotoSansKR-Medium.woff') format('woff');
 }
 @font-face {
     font-family: 'NotoSansKRSemiBold';
@@ -125,72 +125,72 @@
 }
 @font-face {
     font-family: 'NotoSansKRBold';
-    src: url('/assets/fonts/NotoSansKR-Bold.woff') format('woff');
+    src: url('../assets/fonts/NotoSansKR-Bold.woff') format('woff');
 }
 @font-face {
     font-family: 'NotoSansKRExtraBold';
-    src: url('/assets/fonts/NotoSansKR-ExtraBold.woff') format('woff');
+    src: url('../assets/fonts/NotoSansKR-ExtraBold.woff') format('woff');
 }
 @font-face {
     font-family: 'NotoSansKRBlack';
-    src: url('/assets/fonts/NotoSansKR-Black.woff') format('woff');
+    src: url('../assets/fonts/NotoSansKR-Black.woff') format('woff');
 }
 
 /* arial */
 @font-face {
     font-family: 'arialRegular';
-    src: url('/assets/fonts/arial.woff') format('woff');
+    src: url('../assets/fonts/arial.woff') format('woff');
 }
 @font-face {
     font-family: 'arialRegularItalic';
-    src: url('/assets/fonts/ariali.woff') format('woff');
+    src: url('../assets/fonts/ariali.woff') format('woff');
 }
 @font-face {
     font-family: 'arialMedium';
-    src: url('/assets/fonts/arialbd.woff') format('woff');
+    src: url('../assets/fonts/arialbd.woff') format('woff');
 }
 @font-face {
     font-family: 'arialSemiBold';
-    src: url('/assets/fonts/Arialn_0.woff') format('woff');
+    src: url('../assets/fonts/Arialn_0.woff') format('woff');
 }
 @font-face {
     font-family: 'arialBold';
-    src: url('/assets/fonts/ARIALNB.woff') format('woff');
+    src: url('../assets/fonts/ARIALNB.woff') format('woff');
 }
 @font-face {
     font-family: 'arialExtraBold';
-    src: url('/assets/fonts/ariblk.woff') format('woff');
+    src: url('../assets/fonts/ariblk.woff') format('woff');
 }
 
 /* Bangkok*/
 @font-face {
     font-family: 'BangkokTime1';
-    src: url('/assets/fonts/Bangkok-Time1.woff') format('woff');
+    src: url('../assets/fonts/Bangkok-Time1.woff') format('woff');
 }
 
 @font-face {
     font-family: 'BangkokTime2';
-    src: url('/assets/fonts/Bangkok-Time2.woff') format('woff');
+    src: url('../assets/fonts/Bangkok-Time2.woff') format('woff');
 }
 
 @font-face {
     font-family: 'BangkokMoney';
-    src: url('/assets/fonts/Bangkok-Money.woff') format('woff');
+    src: url('../assets/fonts/Bangkok-Money.woff') format('woff');
 }
 
 @font-face {
     font-family: 'BangkokTime';
-    src: url('/assets/fonts/Bangkok-Time.woff') format('woff');
+    src: url('../assets/fonts/Bangkok-Time.woff') format('woff');
 }
 
 /* BangkokMoney */
 @font-face {
     font-family: 'BangkokMoneyRegular';
-    src: url('/assets/fonts/Bangkok-Money-Regular.woff') format('woff');
+    src: url('../assets/fonts/Bangkok-Money-Regular.woff') format('woff');
 }
 @font-face {
     font-family: 'BangkokMoneyMedium';
-    src: url('/assets/fonts/Bangkok-Money-Medium.woff') format('woff');
+    src: url('../assets/fonts/Bangkok-Money-Medium.woff') format('woff');
 }
 @font-face {
     font-family: 'BangkokMoneySemiBold';
@@ -198,20 +198,20 @@
 }
 @font-face {
     font-family: 'BangkokMoneyBold';
-    src: url('/assets/fonts/Bangkok-Money-Bold.woff') format('woff');
+    src: url('../assets/fonts/Bangkok-Money-Bold.woff') format('woff');
 }
 /* TTB-Money */
 @font-face {
     font-family: 'TTBMoneyRegular';
-    src: url('/assets/fonts/TTB-Money-Regular.woff') format('woff');
+    src: url('../assets/fonts/TTB-Money-Regular.woff') format('woff');
 }
 @font-face {
     font-family: 'TTBMoneyMedium';
-    src: url('/assets/fonts/TTB-Money-Medium.woff') format('woff');
+    src: url('../assets/fonts/TTB-Money-Medium.woff') format('woff');
 }
 @font-face {
     font-family: 'TTBMoneySemiBold';
-    src: url('/assets/fonts/TTB-Money-SemiBold.woff') format('woff');
+    src: url('../assets/fonts/TTB-Money-SemiBold.woff') format('woff');
 }
 @font-face {
     font-family: 'TTBMoneyBold';
@@ -219,20 +219,20 @@
 }
 @font-face {
     font-family: 'TTBMoneyExtraBold';
-    src: url('/assets/fonts/TTB-Money-ExtraBold.woff') format('woff');
+    src: url('../assets/fonts/TTB-Money-ExtraBold.woff') format('woff');
 }
 /* krungsri */
 @font-face {
     font-family: 'krungsriRegular';
-    src: url('/assets/fonts/krungsri_con-webfont.woff') format('woff');
+    src: url('../assets/fonts/krungsri_con-webfont.woff') format('woff');
 }
 @font-face {
     font-family: 'krungsriMedium';
-    src: url('/assets/fonts/krungsri_con_med-webfont.woff') format('woff');
+    src: url('../assets/fonts/krungsri_con_med-webfont.woff') format('woff');
 }
 @font-face {
     font-family: 'krungsriBold';
-    src: url('/assets/fonts/krungsri_con_bol-webfont.woff') format('woff');
+    src: url('../assets/fonts/krungsri_con_bol-webfont.woff') format('woff');
 }
 
 
@@ -241,176 +241,176 @@
 
 @font-face {
     font-family: 'THSarabunRegular';
-    src: url('/assets/fonts/THSarabun.woff') format('woff');
+    src: url('../assets/fonts/THSarabun.woff') format('woff');
 }
 
 @font-face {
     font-family: 'THSarabunBold';
-    src: url('/assets/fonts/THSarabun-Bold.woff') format('woff');
+    src: url('../assets/fonts/THSarabun-Bold.woff') format('woff');
 }
 
 @font-face {
     font-family: 'THSarabunItalic';
-    src: url('/assets/fonts/THSarabun-Italic.woff') format('woff');
+    src: url('../assets/fonts/THSarabun-Italic.woff') format('woff');
 }
 
 @font-face {
     font-family: 'THSarabunBoldItalic';
-    src: url('/assets/fonts/THSarabun-BoldItalic.woff') format('woff');
+    src: url('../assets/fonts/THSarabun-BoldItalic.woff') format('woff');
 }
 
 @font-face {
     font-family: 'THSarabunNew';
-    src: url('/assets/fonts/THSarabunNew.woff') format('woff');
+    src: url('../assets/fonts/THSarabunNew.woff') format('woff');
 }
 
 @font-face {
     font-family: 'THSarabunNewBold';
-    src: url('/assets/fonts/THSarabunNew-Bold.woff') format('woff');
+    src: url('../assets/fonts/THSarabunNew-Bold.woff') format('woff');
 }
 
 @font-face {
     font-family: 'THSarabunNewItalic';
-    src: url('/assets/fonts/THSarabunNew-Italic.woff') format('woff');
+    src: url('../assets/fonts/THSarabunNew-Italic.woff') format('woff');
 }
 
 @font-face {
     font-family: 'THSarabunNewBoldItalic';
-    src: url('/assets/fonts/THSarabunNew-BoldItalic.woff') format('woff');
+    src: url('../assets/fonts/THSarabunNew-BoldItalic.woff') format('woff');
 }
 
 /*DBHelvethaicaMonX*/
 @font-face {
     font-family: 'DBHelvethaicaMonX';
-    src: url('/assets/fonts/DBHelvethaicaMonX.woff') format('woff');
+    src: url('../assets/fonts/DBHelvethaicaMonX.woff') format('woff');
 }
 
 @font-face {
     font-family: 'DBHelvethaicaMonXCond';
-    src: url('/assets/fonts/DBHelvethaicaMonXCond.woff') format('woff');
+    src: url('../assets/fonts/DBHelvethaicaMonXCond.woff') format('woff');
 }
 @font-face {
     font-family: 'DBHelvethaicaMonXMed';
-    src: url('/assets/fonts/DBHelvethaicaMonXMed.woff') format('woff');
+    src: url('../assets/fonts/DBHelvethaicaMonXMed.woff') format('woff');
 }
 
 @font-face {
     font-family: 'DBHelvethaicaMonXMedCond';
-    src: url('/assets/fonts/DBHelvethaicaMonXMedCond.woff') format('woff');
+    src: url('../assets/fonts/DBHelvethaicaMonXMedCond.woff') format('woff');
 }
 
 @font-face {
     font-family: 'DBHelvethaicaMonXBold';
-    src: url('/assets/fonts/DBHelvethaicaMonXBd.woff') format('woff');
+    src: url('../assets/fonts/DBHelvethaicaMonXBd.woff') format('woff');
 }
 
 @font-face {
     font-family: 'DBHelvethaicaMonXBoldCond';
-    src: url('/assets/fonts/DBHelvethaicaMonXBdCond.woff') format('woff');
+    src: url('../assets/fonts/DBHelvethaicaMonXBdCond.woff') format('woff');
 }
 
 /* Times New Roman*/
 @font-face {
     font-family: 'TimesNewRoman';
-    src: url('/assets/fonts/times.woff') format('woff');
+    src: url('../assets/fonts/times.woff') format('woff');
 }
 
 @font-face {
     font-family: 'TimesNewRomanBold';
-    src: url('/assets/fonts/timesbd.woff') format('woff');
+    src: url('../assets/fonts/timesbd.woff') format('woff');
 }
 
 @font-face {
     font-family: 'TimesNewRomanItalic';
-    src: url('/assets/fonts/timesi.woff') format('woff');
+    src: url('../assets/fonts/timesi.woff') format('woff');
 }
 
 @font-face {
     font-family: 'TimesNewRomanBoldItalic';
-    src: url('/assets/fonts/timesbi.woff') format('woff');
+    src: url('../assets/fonts/timesbi.woff') format('woff');
 }
 /* Lucida Sans Typewriter*/
 @font-face {
     font-family: 'LST';
-    src: url('/assets/fonts/LTYPE.woff') format('woff');
+    src: url('../assets/fonts/LTYPE.woff') format('woff');
 }
 
 @font-face {
     font-family: 'LSTBold';
-    src: url('/assets/fonts/LTYPEB.woff') format('woff');
+    src: url('../assets/fonts/LTYPEB.woff') format('woff');
 }
 
 @font-face {
     font-family: 'LSTItalic';
-    src: url('/assets/fonts/LTYPEO.woff') format('woff');
+    src: url('../assets/fonts/LTYPEO.woff') format('woff');
 }
 
 @font-face {
     font-family: 'LSTBoldItalic';
-    src: url('/assets/fonts/LTYPEBO.woff') format('woff');
+    src: url('../assets/fonts/LTYPEBO.woff') format('woff');
 }
 /* Other*/
 @font-face {
     font-family: 'DXKrungthaiSemiBold';
-    src: url('/assets/fonts/DX-Krungthai-SemiBold.woff') format('woff');
+    src: url('../assets/fonts/DX-Krungthai-SemiBold.woff') format('woff');
 }
 
 @font-face {
     font-family: 'DXKrungthaiThin';
-    src: url('/assets/fonts/DX-Krungthai-Thin.woff') format('woff');
+    src: url('../assets/fonts/DX-Krungthai-Thin.woff') format('woff');
 }
 
 @font-face {
     font-family: 'DXSCB';
-    src: url('/assets/fonts/DX-SCB.woff') format('woff');
+    src: url('../assets/fonts/DX-SCB.woff') format('woff');
 }
 
 @font-face {
     font-family: 'DXTTBBold';
-    src: url('/assets/fonts/DX-TTB-bold.woff') format('woff');
+    src: url('../assets/fonts/DX-TTB-bold.woff') format('woff');
 }
 
 @font-face {
     font-family: 'DXTTBRegular';
-    src: url('/assets/fonts/DX-TTB-regular.woff') format('woff');
+    src: url('../assets/fonts/DX-TTB-regular.woff') format('woff');
 }
 
 @font-face {
     font-family: 'DXKrungthaiBold';
-    src: url('/assets/fonts/DX-Krungthai-Bold.woff') format('woff');
+    src: url('../assets/fonts/DX-Krungthai-Bold.woff') format('woff');
 }
 
 @font-face {
     font-family: 'DXKrungthaiMedium';
-    src: url('/assets/fonts/DX-Krungthai-Medium.woff') format('woff');
+    src: url('../assets/fonts/DX-Krungthai-Medium.woff') format('woff');
 }
 
 @font-face {
     font-family: 'DXKrungthaiRegular';
-    src: url('/assets/fonts/DX-Krungthai-Regular.woff') format('woff');
+    src: url('../assets/fonts/DX-Krungthai-Regular.woff') format('woff');
 }
 @font-face {
     font-family: 'TTBMoney';
-    src: url('/assets/fonts/TTB Money.woff') format('woff');
+    src: url('../assets/fonts/TTB Money.woff') format('woff');
 }
 
 @font-face {
     font-family: 'CoreSansLight';
-    src: url('/assets/fonts/Core-Sans-E-W01-35-Light.woff') format('woff');
+    src: url('../assets/fonts/Core-Sans-E-W01-35-Light.woff') format('woff');
 }
 
 @font-face {
     font-family: 'CoreSansBold';
-    src: url('/assets/fonts/Core-Sans-N-65-Bold.woff') format('woff');
+    src: url('../assets/fonts/Core-Sans-N-65-Bold.woff') format('woff');
 }
 
 @font-face {
     font-family: 'BaacBold';
-    src: url('/assets/fonts/Baac_Bold.woff') format('woff');
+    src: url('../assets/fonts/Baac_Bold.woff') format('woff');
 }
 @font-face {
     font-family: 'OCR-B';
-    src: url('/assets/fonts/OCR-B.woff') format('woff');
+    src: url('../assets/fonts/OCR-B.woff') format('woff');
 }
 
 
