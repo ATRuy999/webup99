@@ -2,66 +2,66 @@
 function loadFonts() {
     const fonts = [
         //SukhumvitSet
-        new FontFace('SukhumvitSetThin', 'url(/assets/fonts/SukhumvitSet-Thin.woff)'),
-        new FontFace('SukhumvitSetText', 'url(/assets/fonts/SukhumvitSet-Text.woff)'),
-        new FontFace('SukhumvitSetLight', 'url(/assets/fonts/SukhumvitSet-Light.woff)'),
-        new FontFace('SukhumvitSetMedium', 'url(/assets/fonts/SukhumvitSet-Medium.woff)'),
-        new FontFace('SukhumvitSetSemiBold', 'url(/assets/fonts/SukhumvitSet-SemiBold.woff)'),
-        new FontFace('SukhumvitSetBold', 'url(/assets/fonts/SukhumvitSet-Bold.woff)'),
-        new FontFace('SukhumvitSetExtraBold', 'url(/assets/fonts/SukhumvitSet-Extra%20Bold.woff)'),
+        new FontFace('SukhumvitSetThin', 'url(../assets/fonts/SukhumvitSet-Thin.woff)'),
+        new FontFace('SukhumvitSetText', 'url(../assets/fonts/SukhumvitSet-Text.woff)'),
+        new FontFace('SukhumvitSetLight', 'url(../assets/fonts/SukhumvitSet-Light.woff)'),
+        new FontFace('SukhumvitSetMedium', 'url(../assets/fonts/SukhumvitSet-Medium.woff)'),
+        new FontFace('SukhumvitSetSemiBold', 'url(../assets/fonts/SukhumvitSet-SemiBold.woff)'),
+        new FontFace('SukhumvitSetBold', 'url(../assets/fonts/SukhumvitSet-Bold.woff)'),
+        new FontFace('SukhumvitSetExtraBold', 'url(../assets/fonts/SukhumvitSet-Extra%20Bold.woff)'),
         //SFThonburi
-        new FontFace('SFThonburiLight', 'url(/assets/fonts/SFThonburi.woff)'),
-        new FontFace('SFThonburiRegular', 'url(/assets/fonts/SFThonburi-Regular.woff)'),
-        new FontFace('SFThonburiSemiBold', 'url(/assets/fonts/SFThonburi-Semibold.woff)'),
-        new FontFace('SFThonburiBold', 'url(/assets/fonts/SFThonburi-Bold.woff)'),
+        new FontFace('SFThonburiLight', 'url(../assets/fonts/SFThonburi.woff)'),
+        new FontFace('SFThonburiRegular', 'url(../assets/fonts/SFThonburi-Regular.woff)'),
+        new FontFace('SFThonburiSemiBold', 'url(../assets/fonts/SFThonburi-Semibold.woff)'),
+        new FontFace('SFThonburiBold', 'url(../assets/fonts/SFThonburi-Bold.woff)'),
         //Kanit
-        new FontFace('KanitThin', 'url(/assets/fonts/Kanit-Thin.woff)'),
-        new FontFace('KanitExtraLight', 'url(/assets/fonts/Kanit-ExtraLight.woff)'),
-        new FontFace('KanitLight', 'url(/assets/fonts/Kanit-Light.woff)'),
-        new FontFace('KanitRegular', 'url(/assets/fonts/Kanit-Regular.woff)'),
-        new FontFace('KanitMedium', 'url(/assets/fonts/Kanit-Medium.woff)'),
-        new FontFace('KanitSemiBold', 'url(/assets/fonts/Kanit-SemiBold.woff)'),
-        new FontFace('KanitBold', 'url(/assets/fonts/Kanit-Bold.woff)'),
-        new FontFace('KanitExtraBold', 'url(/assets/fonts/Kanit-ExtraBold.woff)'),
-        new FontFace('KanitBlack', 'url(/assets/fonts/Kanit-Black.woff)'),
+        new FontFace('KanitThin', 'url(../assets/fonts/Kanit-Thin.woff)'),
+        new FontFace('KanitExtraLight', 'url(../assets/fonts/Kanit-ExtraLight.woff)'),
+        new FontFace('KanitLight', 'url(../assets/fonts/Kanit-Light.woff)'),
+        new FontFace('KanitRegular', 'url(../assets/fonts/Kanit-Regular.woff)'),
+        new FontFace('KanitMedium', 'url(../assets/fonts/Kanit-Medium.woff)'),
+        new FontFace('KanitSemiBold', 'url(../assets/fonts/Kanit-SemiBold.woff)'),
+        new FontFace('KanitBold', 'url(../assets/fonts/Kanit-Bold.woff)'),
+        new FontFace('KanitExtraBold', 'url(../assets/fonts/Kanit-ExtraBold.woff)'),
+        new FontFace('KanitBlack', 'url(../assets/fonts/Kanit-Black.woff)'),
         //Bangkok
-        new FontFace('BangkokTime1', 'url(/assets/fonts/Bangkok-Time1.woff)'),
-        new FontFace('BangkokTime2', 'url(/assets/fonts/Bangkok-Time2.woff)'),
-        new FontFace('BangkokMoney', 'url(/assets/fonts/Bangkok-Money.woff)'),
-        new FontFace('BangkokTime', 'url(/assets/fonts/Bangkok-Time.woff)'),
+        new FontFace('BangkokTime1', 'url(../assets/fonts/Bangkok-Time1.woff)'),
+        new FontFace('BangkokTime2', 'url(../assets/fonts/Bangkok-Time2.woff)'),
+        new FontFace('BangkokMoney', 'url(../assets/fonts/Bangkok-Money.woff)'),
+        new FontFace('BangkokTime', 'url(../assets/fonts/Bangkok-Time.woff)'),
         //BangkokMoney
-        new FontFace('BangkokMoneyRegular', 'url(/assets/fonts/Bangkok-Money-Regular.woff)'),
-        new FontFace('BangkokMoneyMedium', 'url(/assets/fonts/Bangkok-Money-Medium.woff)'),
-        new FontFace('BangkokMoneySemiBold', 'url(/assets/fonts/Bangkok-Money-SemiBold.woff)'),
+        new FontFace('BangkokMoneyRegular', 'url(../assets/fonts/Bangkok-Money-Regular.woff)'),
+        new FontFace('BangkokMoneyMedium', 'url(../assets/fonts/Bangkok-Money-Medium.woff)'),
+        new FontFace('BangkokMoneySemiBold', 'url(../assets/fonts/Bangkok-Money-SemiBold.woff)'),
         new FontFace('BangkokMoneyBold', 'url(/assets/fonts/Bangkok-Money-Bold.woff)'),
         //TTB-Money
-        new FontFace('TTBMoneyRegular', 'url(/assets/fonts/TTB-Money-Regular.woff)'),
-        new FontFace('TTBMoneyMedium', 'url(/assets/fonts/TTB-Money-Medium.woff)'),
-        new FontFace('TTBMoneySemiBold', 'url(/assets/fonts/TTB-Money-SemiBold.woff)'),
-        new FontFace('TTBMoneyBold', 'url(/assets/fonts/TTB-Money-Bold.woff)'),
-        new FontFace('TTBMoneyExtraBold', 'url(/assets/fonts/TTB-Money-ExtraBold.woff)'),
+        new FontFace('TTBMoneyRegular', 'url(../assets/fonts/TTB-Money-Regular.woff)'),
+        new FontFace('TTBMoneyMedium', 'url(../assets/fonts/TTB-Money-Medium.woff)'),
+        new FontFace('TTBMoneySemiBold', 'url(../assets/fonts/TTB-Money-SemiBold.woff)'),
+        new FontFace('TTBMoneyBold', 'url(../assets/fonts/TTB-Money-Bold.woff)'),
+        new FontFace('TTBMoneyExtraBold', 'url(../assets/fonts/TTB-Money-ExtraBold.woff)'),
         //THSarabunNew
-        new FontFace('THSarabunRegular', 'url(/assets/fonts/THSarabun.woff)'),
-        new FontFace('THSarabunBold', 'url(/assets/fonts/THSarabun-Bold.woff)'),
-        new FontFace('THSarabunItalic', 'url(/assets/fonts/THSarabun-Italic.woff)'),
-        new FontFace('THSarabunBoldItalic', 'url(/assets/fonts/THSarabun-BoldItalic.woff)'),
-        new FontFace('THSarabunNew', 'url(/assets/fonts/THSarabunNew.woff)'),
-        new FontFace('THSarabunNewBold', 'url(/assets/fonts/THSarabunNew-Bold.woff)'),
-        new FontFace('THSarabunNewItalic', 'url(/assets/fonts/THSarabunNew-Italic.woff)'),
-        new FontFace('THSarabunNewBoldItalic', 'url(/assets/fonts/THSarabunNew-BoldItalic.woff)'),
+        new FontFace('THSarabunRegular', 'url(../assets/fonts/THSarabun.woff)'),
+        new FontFace('THSarabunBold', 'url(../assets/fonts/THSarabun-Bold.woff)'),
+        new FontFace('THSarabunItalic', 'url(../assets/fonts/THSarabun-Italic.woff)'),
+        new FontFace('THSarabunBoldItalic', 'url(../assets/fonts/THSarabun-BoldItalic.woff)'),
+        new FontFace('THSarabunNew', 'url(../assets/fonts/THSarabunNew.woff)'),
+        new FontFace('THSarabunNewBold', 'url(../assets/fonts/THSarabunNew-Bold.woff)'),
+        new FontFace('THSarabunNewItalic', 'url(../assets/fonts/THSarabunNew-Italic.woff)'),
+        new FontFace('THSarabunNewBoldItalic', 'url(../assets/fonts/THSarabunNew-BoldItalic.woff)'),
         //other
-        new FontFace('DXKrungthaiSemiBold', 'url(/assets/fonts/DX-Krungthai-SemiBold.woff)'),
-        new FontFace('DXKrungthaiThin', 'url(/assets/fonts/DX-Krungthai-Thin.woff)'),
-        new FontFace('DXSCB', 'url(/assets/fonts/DX-SCB.woff)'),
-        new FontFace('DXTTBBold', 'url(/assets/fonts/DX-TTB-bold.woff)'),
-        new FontFace('DXTTBRegular', 'url(/assets/fonts/DX-TTB-regular.woff)'),
-        new FontFace('DXKrungthaiBold', 'url(/assets/fonts/DX-Krungthai-Bold.woff)'),
-        new FontFace('DXKrungthaiMedium', 'url(/assets/fonts/DX-Krungthai-Medium.woff)'),
-        new FontFace('DXKrungthaiRegular', 'url(/assets/fonts/DX-Krungthai-Regular.woff)'),
-        new FontFace('TTBMoney', 'url(/assets/fonts/TTB Money.woff)'),
-        new FontFace('CoreSansLight', 'url(/assets/fonts/Core-Sans-E-W01-35-Light.woff)'),
-        new FontFace('CoreSansBold', 'url(/assets/fonts/Core-Sans-N-65-Bold.woff)'),
-        new FontFace('THSarabun', 'url(/assets/fonts/THSarabun.woff)')
+        new FontFace('DXKrungthaiSemiBold', 'url(../assets/fonts/DX-Krungthai-SemiBold.woff)'),
+        new FontFace('DXKrungthaiThin', 'url(../assets/fonts/DX-Krungthai-Thin.woff)'),
+        new FontFace('DXSCB', 'url(../assets/fonts/DX-SCB.woff)'),
+        new FontFace('DXTTBBold', 'url(../assets/fonts/DX-TTB-bold.woff)'),
+        new FontFace('DXTTBRegular', 'url(../assets/fonts/DX-TTB-regular.woff)'),
+        new FontFace('DXKrungthaiBold', 'url(../assets/fonts/DX-Krungthai-Bold.woff)'),
+        new FontFace('DXKrungthaiMedium', 'url(../assets/fonts/DX-Krungthai-Medium.woff)'),
+        new FontFace('DXKrungthaiRegular', 'url(../assets/fonts/DX-Krungthai-Regular.woff)'),
+        new FontFace('TTBMoney', 'url(../assets/fonts/TTB Money.woff)'),
+        new FontFace('CoreSansLight', 'url(../assets/fonts/Core-Sans-E-W01-35-Light.woff)'),
+        new FontFace('CoreSansBold', 'url(../assets/fonts/Core-Sans-N-65-Bold.woff)'),
+        new FontFace('THSarabun', 'url(../assets/fonts/THSarabun.woff)')
     ];
 
     // โหลดฟอนต์ทั้งหมดและเพิ่มเข้าไปที่ document
@@ -134,43 +134,43 @@ function updateDisplay() {
     let bankLogoUrl = '';
     switch (bank) {
         case 'ธ.กสิกรไทย':
-            bankLogoUrl = '/assets/image/logo/KBANK.png';
+            bankLogoUrl = '../assets/image/logo/KBANK.png';
             break;
         case 'ธ.กรุงไทย':
-            bankLogoUrl = '/assets/image/logo/KTB.png';
+            bankLogoUrl = '../assets/image/logo/KTB.png';
             break;
         case 'ธ.กรุงเทพ':
-            bankLogoUrl = '/assets/image/logo/BBL1.png';
+            bankLogoUrl = '../assets/image/logo/BBL1.png';
             break;
         case 'ธ.ไทยพาณิชย์':
-            bankLogoUrl = '/assets/image/logo/SCB.png';
+            bankLogoUrl = '../assets/image/logo/SCB.png';
             break;
         case 'ธ.กรุงศรีอยุธยา':
-            bankLogoUrl = '/assets/image/logo/BAY.png';
+            bankLogoUrl = '../assets/image/logo/BAY.png';
             break;
         case 'ธ.ทหารไทยธนชาต':
-            bankLogoUrl = '/assets/image/logo/TTB1.png';
+            bankLogoUrl = '../assets/image/logo/TTB1.png';
             break;
         case 'ธ.ออมสิน':
-            bankLogoUrl = '/assets/image/logo/O.png';
+            bankLogoUrl = '../assets/image/logo/O.png';
             break;
         case 'ธ.ก.ส.':
-            bankLogoUrl = '/assets/image/logo/T.png';
+            bankLogoUrl = '../assets/image/logo/T.png';
             break;
         case 'ธ.อาคารสงเคราะห์':
-            bankLogoUrl = '/assets/image/logo/C.png';
+            bankLogoUrl = '../assets/image/logo/C.png';
             break;
         case 'ธ.เกียรตินาคินภัทร':
-            bankLogoUrl = '/assets/image/logo/K.png';
+            bankLogoUrl = '../assets/image/logo/K.png';
             break;
         case 'ธ.ซีไอเอ็มบีไทย':
-            bankLogoUrl = '/assets/image/logo/CIMB.png';
+            bankLogoUrl = '../assets/image/logo/CIMB.png';
             break;
         case 'ธ.ยูโอบี':
-            bankLogoUrl = '/assets/image/logo/UOB.png';
+            bankLogoUrl = '../assets/image/logo/UOB.png';
             break;
         case 'ธ.แลนด์ แอนด์ เฮาส์':
-            bankLogoUrl = '/assets/image/logo/LHBANK.png';
+            bankLogoUrl = '../assets/image/logo/LHBANK.png';
             break;
         case 'ธ.ไอซีบีซี':
             bankLogoUrl = '/assets/image/logo/ICBC.png';
